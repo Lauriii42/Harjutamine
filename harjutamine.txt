@@ -1,0 +1,3 @@
+GitHub on veebipõhine tarkvaraarenduse abi ja versioonikontrolli teenus.
+Githubi saan edas pidi kasutada tunnis või kodus. Saan kasutada seda et kontrollida nt versiooni teenuseid.
+Github loodi 8. veebruar 2008; 14 aastat tagasi. Githubi asutajad on Tom Preston-Werner,Chris Wanstrath, P. J. Hyett, Scott Chacon ja CEO Nat Friedman.
